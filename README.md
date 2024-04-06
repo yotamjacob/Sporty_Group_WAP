@@ -3,6 +3,7 @@ A WAP Scenario using python and selenium
 
 
 To run, simply clone the repository and run the .py file
+
 The script will:
 1. Load a chrome browser
 2. Go to https://m.twitch.tv/ 
@@ -19,13 +20,13 @@ mobile_emulation = {
 }
 
 Available devices:
-Google Nexus 5
-Google Nexus 6P
-Google Pixel 2
-Google Pixel 2 XL
-iPhone 5/SE
-iPhone 6/7/8
-iPhone 6/7/8 Plus
-iPhone X
-iPad
-iPad Pro
+- Google Nexus 5
+- Google Nexus 6P
+- Google Pixel 2
+- Google Pixel 2 XL
+- iPhone 5/SE
+- iPhone 6/7/8
+- iPhone 6/7/8 Plus
+- iPhone X
+- iPad
+- iPad Pro
